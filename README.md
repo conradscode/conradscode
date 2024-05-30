@@ -12,13 +12,13 @@ $aboutMe = [
         "Neuroscience",
         "Philosophy",
     ],
-    "favoriteBooks" => [
+    "favouriteBooks" => [
         "Dawn of The Dead by George A. Romero",
         "Deep Work by Cal Newport",
         "Stillness is The Key by Ryan Holiday",
         "The Stand by Stephen King",
     ],
-    "favoriteMovies" => [
+    "favouriteMovies" => [
         "Django Unchained",
         "Fight Club",
         "Reservoir Dogs",
